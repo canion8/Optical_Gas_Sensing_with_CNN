@@ -2,6 +2,8 @@
 
 If you need the original source files with the videos/sequences hit me up with an e-mail to jose.l.frazao@tecnico.ulisboa.pt
 
+---------------------------------------------------------------------------------------------------------------------------
+
 If you use this code please cite our paper:
 
 Frazão, J.; Palma, S.I.C.J.; Costa, H.M.A.; Alves, C.; Roque, A.C.A.; Silveira, M. Optical Gas Sensing with Liquid Crystal Droplets and Convolutional Neural Networks. Sensors 2021, 21, 2854. https://doi.org/10.3390/s21082854
